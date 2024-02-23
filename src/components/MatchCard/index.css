@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.match-card-container {
+  background-color: #1e293b;
+  height: 100%;
+  list-style-type: none;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  height: 400px;
+  text-align: center;
+}
+.match-card-team-logo {
+  height: 100px;
+}
+
+.game-lost {
+  color: #e31a1a;
+  font-size: 30px;
+}
+.game-won {
+  color: #18ed66;
+  font-size: 30px;
+}

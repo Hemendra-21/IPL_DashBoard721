@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.team-card-container {
+  width: 48%;
+}
+.link-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid grey;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  text-decoration: none;
+  height: 250px;
+  padding: 30px;
+  margin: 10px;
+}
+.team-card-logo {
+  height: 200px;
+  width: 40%;
+}
+.team-card-name {
+  font-size: 35px;
+  text-align: center;
+}
